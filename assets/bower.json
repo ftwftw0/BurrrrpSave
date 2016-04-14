@@ -1,0 +1,13 @@
+{
+  "name": "epixhell",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "",
+    "jquery-ui": "",
+    "threejs": "",
+    "threex": "",
+    "threex.domevents": "",
+    "socket.io-client": ""
+  },
+  "private": true
+}
